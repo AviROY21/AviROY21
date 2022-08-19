@@ -7,9 +7,8 @@
 
 As my background is in Computer science and engineering, that's why I am highly passionate about solving complex coding in the possible most accessible way. In addition, I am interested in video games that act as distractions from pain and psychological trauma. Which helps me to focus on my goals. I do love playing cricket and driving as well. I also like traveling because I want to explore this world and know the unknown also For ADVENTURE
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aviroy21&label=Profile%20views&color=0e75b6&style=flat" alt="aviroy21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviroy21" alt="aviroy21" /></a> </p>
+
 
 - 🔭 I’m currently working on **Airplane Reservation System**
 
@@ -18,9 +17,15 @@ As my background is in Computer science and engineering, that's why I am highly 
 - 💬 Ask me about **WEB Development**
 
 - 📫 How to reach me **FB, Instagram**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aviroy21&label=Profile%20views&color=0e75b6&style=flat" alt="aviroy21" /> </p>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=aviroy21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<h3 align="left">Connect with me:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aviroy21" alt="aviroy21" /></a> </p>
+
+<h3 align="left">Contiguity media:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/aviroy21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/aviroy21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/avi-roy-0426211a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avi-roy-0426211a9/" height="30" width="40" /></a>
