@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Avishek Roy</h1>
 <h3 align="center">Student of CSE</h3>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/7jom.gif">
 
 
 
