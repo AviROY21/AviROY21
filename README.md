@@ -48,7 +48,7 @@ As my background is in Computer science and engineering, that's why I am highly 
 
 
 
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AviROY21)  
 
 
 
