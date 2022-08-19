@@ -41,9 +41,7 @@ As my background is in Computer science and engineering, that's why I am highly 
 
 <img src="https://github-readme-stats.vercel.app/api?username=aviroy21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviroy21&show_icons=true&locale=en" alt="aviroy21" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviroy21&" alt="aviroy21" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aviroy21&show_icons=true&locale=en" alt="aviroy21" /></p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aviroy21&" alt="aviroy21" /></p>
 
 
 
