@@ -18,7 +18,8 @@ As my background is in Computer science and engineering, that's why I am highly 
 - 💬 Ask me about **WEB Development**
 
 - 📫 How to reach me **FB, Insta**
-
+- 
+<img src="https://github-readme-stats.vercel.app/api?username=aviroy21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
@@ -42,7 +43,7 @@ As my background is in Computer science and engineering, that's why I am highly 
 <a href="/https://www.instagram.com/avi_roy20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.instagram.com/avi_roy20/" height="30" width="40" /></a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aviroy21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 
 </p><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aviroy21&" alt="aviroy21" /></p>
