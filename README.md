@@ -1,4 +1,4 @@
-![I am a student of CSE](https://img.freepik.com/premium-vector/artificial-intelligence-logo-icon-concept_230610-568.jpg?w=2000)
+![I am GitHub Readme Generator's creator](https://media-exp1.licdn.com/dms/image/C5622AQF34EIwC3nr4A/feedshare-shrink_2048_1536/0/1660915587445?e=1663804800&v=beta&t=B7XgBjpYTagvi16ZmtMp8iAvN_vsvStSkx-UvD8ihtU)
 
 <h1 align="center">Hi 👋, I'm Avishek Roy</h1>
 <h3 align="center">Student of CSE</h3>
