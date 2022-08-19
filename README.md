@@ -19,9 +19,6 @@ As my background is in Computer science and engineering, that's why I am highly 
 
 - 📫 How to reach me **FB, Instagram**
 <img src="https://github-readme-stats.vercel.app/api?username=aviroy21&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -42,7 +39,7 @@ As my background is in Computer science and engineering, that's why I am highly 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AviROY21)](https://github.com/anuraghazra/github-readme-stats)
 
-</p><p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aviroy21&" alt="aviroy21" /></p>
+</p><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aviroy21&" alt="aviroy21" /></p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AviROY21)  
 
