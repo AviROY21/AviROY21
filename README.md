@@ -1,18 +1,6 @@
 
 
 
-<div class="position-absolute width-full color-bg-default" style="bottom: -4rem;">
-  <div class="container-xl p-responsive">
-    <div class="d-flex flex-justify-center flex-lg-justify-end color-bg-default">
-      <div class="col-8 col-sm-7 col-md-6 col-lg-5 position-relative z-2 right-lg-n12 events-none">
-        <picture>
-          <source srcset="astro-mona.webp" type="image/webp">
-          <img src="astro-mona.svg" width="960" height="967" class="home-astro-mona width-full position-absolute bottom-0 height-auto" alt="Mona looking at GitHub activity across the globe">
-        </picture>
-      </div>
-    </div>
-  </div>
-</div>
 
 <h1 align="center">Hlw 👋, I'm Avishek Roy</h1>
 <h3 align="center">Student of CSE</h3>
@@ -104,18 +92,3 @@
 </table>
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.60.0/codemirror.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.60.0/codemirror.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.60.0/mode/python/python.min.js"></script>
-
-<div id="python-code" class="codemirror-container">
-<pre><code class="language-python">print("Hello, World!")</code></pre>
-</div>
-
-<script>
- CodeMirror.fromTextArea(document.getElementById("python-code"), {
-    lineNumbers: true,
-    mode: "python",
-    readOnly: true
- });
-</script>
