@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 <table>
  <tr>
     <td>
@@ -27,3 +35,20 @@
     </td>
  </tr>
 </table>
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.60.0/codemirror.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.60.0/codemirror.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.60.0/mode/python/python.min.js"></script>
+
+<div id="python-code" class="codemirror-container">
+<pre><code class="language-python">print("Hello, World!")</code></pre>
+</div>
+
+<script>
+ CodeMirror.fromTextArea(document.getElementById("python-code"), {
+    lineNumbers: true,
+    mode: "python",
+    readOnly: true
+ });
+</script>
