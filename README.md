@@ -61,28 +61,37 @@
 
 
 
-<table>
- <tr>
-    <td>
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-      </a>
-    </td>
+# List of languages and their respective devicon links
+languages = [
+    {
+        "name": "python",
+        "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+    },
+    {
+        "name": "java",
+        "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
+    },
+    {
+        "name": "cplusplus",
+        "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    },
+    {
+        "name": "php",
+        "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+    },
+    {
+        "name": "ruby",
+        "link": "https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"
+    }
+]
+
+# Function to display the languages in a more elegant way
+def display_languages(languages):
+    for language in languages:
+        print(f'<td><a href="{language["link"]}" target="_blank" rel="noreferrer"><img src="{language["link"]}" alt="{language["name"]}" width="40" height="40"/></a></td>')
+
+# Display the languages
+display_languages(languages)
     <td>
       <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/>
