@@ -11,14 +11,13 @@
   </div>
 </div>
 
-<h1 align="center">Hi 👋, I'm Avishek Roy</h1>
+<h1 align="center">Hlw 👋, I'm Avishek Roy</h1>
 <h3 align="center">Student of CSE</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
-
-As my background is in Computer science and engineering, that's why I am highly passionate about solving complex coding in the possible most accessible way. In addition, I am interested in video games that act as distractions from pain and psychological trauma. Which helps me to focus on my goals. I do love playing cricket and driving as well. I also like traveling because I want to explore this world and know the unknown also For ADVENTURE
+ Computer Science Engineering student passionate about coding, problem-solving, and exploring the endless possibilities of tech. 💻 Excited about AI, machine learning, and cybersecurity. Constantly learning and building projects to hone skills in Python, Java, and C++. Open-source enthusiast contributing to innovative projects. Connect with me to collaborate and explore the evolving world of tech! 🚀
 
 
 
