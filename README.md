@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hlw 👋, I'm Avishek Roy</h1>
-<h3 align="center">Student of CSE</h3>
+<h3 align="center">Computer Engineer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
@@ -13,13 +13,13 @@
 
 
 
-- 🔭 I’m currently working on **Airplane Reservation System**
+- 🔭 I’m currently working on **Machine learning, Deep learning ,LLM, Gen AI Algorithms**
 
-- 🌱 I’m currently learning **C++,DBMS**
+- 🌱 I’m currently learning **MODEL ARCHITECTURE**
 
-- 💬 Ask me about **WEB Development**
+- 💬 Ask me about **Software , Research**
 
-- 📫 How to reach me **FB, Instagram**
+- 📫 How to reach me **FB, Instagram, Gmail**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aviroy21&label=Profile%20views&color=0e75b6&style=flat" alt="aviroy21" /> </p>
 
