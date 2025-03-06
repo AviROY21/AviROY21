@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
- Computer Science Engineering student passionate about coding, problem-solving, and exploring the endless possibilities of tech. 💻 Excited about AI, machine learning, and cybersecurity. Constantly learning and building projects to hone skills in Python, Java, and C++. Open-source enthusiast contributing to innovative projects. Connect with me to collaborate and explore the evolving world of tech! 🚀
+ A fresh graduate in Computer Science Engineering, passionate about coding, problem-solving, and exploring the endless possibilities of tech. 💻 Excited about AI, machine learning, and cybersecurity. Constantly learning and building projects to hone Python, Java, and C++ skills. Open-source enthusiast contributing to innovative projects. Connect with me to collaborate and explore the evolving world of tech! 🚀
 
 
 
